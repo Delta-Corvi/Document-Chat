@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai
+faiss-cpu
+sentence-transformers  # (solo se vuoi modelli locali alternativi)
+gradio
+numpy
+pandas
+pymupdf

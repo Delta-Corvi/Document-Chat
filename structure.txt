@@ -1,0 +1,16 @@
+Progetto Eng/
+├── main.py                    # Application entry point with server management
+├── requirements.txt           # Python dependencies
+├── .env                      # Environment variables (Google API key)
+├── rag/                      # RAG system modules
+│   ├── document_crud.py      # Document metadata management
+│   ├── embedding.py          # Google Gemini embedding integration
+│   ├── faiss_store.py        # FAISS vector database operations
+│   ├── pdf_loader.py         # PDF processing and chunking
+│   └── retriever.py          # Document retrieval and AI response generation
+├── ui/
+│   └── gradio_app.py         # Gradio web interface
+└── data/                     # Document storage and metadata
+    ├── documents.jsonl       # Document metadata database
+    ├── faiss.index          # FAISS vector index
+    └── metadata.jsonl       # Vector metadata
