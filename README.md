@@ -1,6 +1,8 @@
 ## Document Chat
 
-This project is the Module1 publication for Ready Tensor Agentic AI Developer Certification 2025: AAIDC2025 
+This project is the Module1 publication for Ready Tensor Agentic AI Developer Certification 2025 (AAIDC2025).
+
+The article describing this project is also published on [Tensor Ready](https://app.readytensor.ai/publications/document-chat-unleash-the-power-of-conversational-document-interaction-aZkjA89MRonZ).
 
 A powerful document management and conversation system that enables users to upload PDFs, process them with advanced AI embeddings, and have intelligent conversations with their documents using Google's Gemini AI.
 
