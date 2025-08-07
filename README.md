@@ -4,6 +4,9 @@ This project is the Module1 publication for Ready Tensor Agentic AI Developer Ce
 
 A powerful document management and conversation system that enables users to upload PDFs, process them with advanced AI embeddings, and have intelligent conversations with their documents using Google's Gemini AI.
 
+<img width="1912" height="889" alt="Document chat screenshoot" src="https://github.com/user-attachments/assets/aea40336-6445-4086-9148-9a1d0f617361" />
+
+
 ## 🚀 Features
 
 - **PDF Document Upload**: Drag-and-drop or browse to upload PDF documents
