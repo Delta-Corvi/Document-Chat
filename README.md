@@ -30,7 +30,7 @@ The application follows a modular architecture with clear separation of concerns
 ## 📁 Project Structure
 
 ```
-Progetto Eng/
+Document Chat/
 ├── main.py                    # Application entry point with server management
 ├── requirements.txt           # Python dependencies
 ├── .env                      # Environment variables (Google API key)
